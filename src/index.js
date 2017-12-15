@@ -42,6 +42,8 @@ module.exports = {
       "no-multi-assign": 0,
       "no-unused-expressions": 0,
       "no-restricted-syntax": "warn",
+      "no-invalid-this": 0,
+      "babel/no-invalid-this": 1,
       "consistent-return": "warn",
       "max-len": 0,
       "curly": "error",
