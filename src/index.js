@@ -24,6 +24,7 @@ module.exports = {
       "no-useless-escape": 0,
       "babel/generator-star-spacing": 0,
       "import/no-dynamic-require": 0,
+      "import/no-commonjs": 2,
       "jsx-a11y/no-static-element-interactions": 0,
       "jsx-a11y/label-has-for": 0,
       "react/require-default-props": 0,
