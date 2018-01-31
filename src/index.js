@@ -6,7 +6,7 @@ module.exports = {
       "expect": true
     },
     "rules": {
-      "radix": ["error", "always"],
+      "radix": ["error", "as-needed"],
       "react/jsx-quotes": 0,
       "react/jsx-filename-extension": 0,
       "react/no-danger": 0,
