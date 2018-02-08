@@ -6,7 +6,7 @@ module.exports = {
       "expect": true
     },
     "rules": {
-      "radix": ["error", "as-needed"],
+      "radix": ["warn", "as-needed"],
       "react/jsx-quotes": 0,
       "react/jsx-filename-extension": 0,
       "react/no-danger": 0,
@@ -24,7 +24,7 @@ module.exports = {
       "no-useless-escape": 0,
       "babel/generator-star-spacing": 0,
       "import/no-dynamic-require": 0,
-      "import/no-commonjs": 2,
+      "import/no-commonjs": "warn",
       "jsx-a11y/no-static-element-interactions": 0,
       "jsx-a11y/label-has-for": 0,
       "react/require-default-props": 0,
