@@ -41,6 +41,7 @@ module.exports = {
       "import/no-webpack-loader-syntax": "warn",
       "import/no-named-as-default-member": "warn",
       "no-multi-assign": 0,
+      "no-prototype-builtins": "off",
       "no-unused-expressions": 0,
       "no-restricted-syntax": "warn",
       "no-invalid-this": 0,
