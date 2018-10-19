@@ -74,7 +74,7 @@ module.exports = {
       "react/no-typos": "off",
       "react/no-unused-prop-types": "warn",
       "react/sort-prop-types": [1, { "ignoreCase": true }],
-      "react-native/split-platform-components": 0
+      "react-native/split-platform-components": 0,
       "rest-spread-spacing": "error",
       "semi": "error",
       "space-before-function-paren": ["error", { "anonymous": "never", "named": "never", "asyncArrow": "always" }],
