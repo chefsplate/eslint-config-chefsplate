@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-chefsplate",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "dist/index.js",
   "description": "ESLint Config For Chefs Plate Apps",
   "repository": {
