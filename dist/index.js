@@ -64,7 +64,6 @@ module.exports = {
     "padded-blocks": ["error", "never"],
     "prefer-const": "error",
     "radix": ["warn", "as-needed"],
-    "react/jsx-quotes": [2, "prefer-double"],
     "react/jsx-filename-extension": 0,
     "react/no-danger": 0,
     "react/require-default-props": 0,
