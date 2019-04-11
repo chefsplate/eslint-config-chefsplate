@@ -61,6 +61,7 @@ module.exports = {
       "operator-linebreak": 0,
       "padded-blocks": ["error", "never"],
       "prefer-const": "error",
+      "prefer-object-spread": "warn",
       "radix": ["warn", "as-needed"],
       "react/jsx-filename-extension": 0,
       "react/no-danger": 0,
