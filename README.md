@@ -13,4 +13,4 @@ Our default export contains all of our ESLint rules.
 - Run `npm run build` to output to `dist/index.js`, which will be published with package.json to npm while all other files are ignored.
 - Commit/Push your changes to new branch
 - Merge pull request to `master` (via github)
-- Run `npm publish` (User: `Chefs-plate/etalp-sfehc`)
+- Run `npm publish`
